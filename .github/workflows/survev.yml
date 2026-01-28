@@ -2,7 +2,7 @@ name: Survev Scraper
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 permissions:
