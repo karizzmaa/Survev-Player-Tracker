@@ -13189,3 +13189,11 @@ Timestamp,Server,Players
 2026-03-13 06:44:25,Russia,10
 2026-03-13 06:44:25,Asia,103
 2026-03-13 06:44:25,South America,3
+
+--- RUN AT 2026-03-13 07:32:47 ---
+Timestamp,Server,Players
+2026-03-13 07:32:47,North America,82
+2026-03-13 07:32:47,Europe,54
+2026-03-13 07:32:47,Russia,16
+2026-03-13 07:32:47,Asia,130
+2026-03-13 07:32:47,South America,4
