@@ -20405,3 +20405,11 @@ Timestamp,Server,Players
 2026-04-12 19:11:53,Russia,34
 2026-04-12 19:11:53,Asia,37
 2026-04-12 19:11:53,South America,50
+
+--- RUN AT 2026-04-12 19:50:48 ---
+Timestamp,Server,Players
+2026-04-12 19:50:48,North America,498
+2026-04-12 19:50:48,Europe,176
+2026-04-12 19:50:48,Russia,19
+2026-04-12 19:50:48,Asia,18
+2026-04-12 19:50:48,South America,47
