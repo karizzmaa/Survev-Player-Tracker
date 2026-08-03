@@ -45123,3 +45123,11 @@ Timestamp,Server,Players
 2026-08-03 08:57:52,Russia,18
 2026-08-03 08:57:52,Asia,168
 2026-08-03 08:57:52,South America,11
+
+--- RUN AT 2026-08-03 08:59:06 ---
+Timestamp,Server,Players
+2026-08-03 08:59:06,North America,40
+2026-08-03 08:59:06,Europe,86
+2026-08-03 08:59:06,Russia,18
+2026-08-03 08:59:06,Asia,154
+2026-08-03 08:59:06,South America,11
