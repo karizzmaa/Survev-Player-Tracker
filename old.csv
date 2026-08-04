@@ -51739,3 +51739,11 @@ Timestamp,Server,Players
 2026-08-04 00:49:57,Russia,15
 2026-08-04 00:49:57,Asia,65
 2026-08-04 00:49:57,South America,34
+
+--- RUN AT 2026-08-04 00:51:09 ---
+Timestamp,Server,Players
+2026-08-04 00:51:09,North America,271
+2026-08-04 00:51:09,Europe,22
+2026-08-04 00:51:09,Russia,15
+2026-08-04 00:51:09,Asia,63
+2026-08-04 00:51:09,South America,41
