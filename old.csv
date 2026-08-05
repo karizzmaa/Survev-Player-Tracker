@@ -66307,3 +66307,11 @@ Timestamp,Server,Players
 2026-08-05 12:03:07,Russia,17
 2026-08-05 12:03:07,Asia,134
 2026-08-05 12:03:07,South America,17
+
+--- RUN AT 2026-08-05 12:03:55 ---
+Timestamp,Server,Players
+2026-08-05 12:03:55,North America,58
+2026-08-05 12:03:55,Europe,138
+2026-08-05 12:03:55,Russia,17
+2026-08-05 12:03:55,Asia,136
+2026-08-05 12:03:55,South America,20
