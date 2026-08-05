@@ -67139,3 +67139,11 @@ Timestamp,Server,Players
 2026-08-05 14:06:55,Russia,18
 2026-08-05 14:06:55,Asia,99
 2026-08-05 14:06:55,South America,26
+
+--- RUN AT 2026-08-05 14:08:00 ---
+Timestamp,Server,Players
+2026-08-05 14:08:00,North America,142
+2026-08-05 14:08:00,Europe,124
+2026-08-05 14:08:00,Russia,20
+2026-08-05 14:08:00,Asia,104
+2026-08-05 14:08:00,South America,24
