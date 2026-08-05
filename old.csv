@@ -66611,3 +66611,11 @@ Timestamp,Server,Players
 2026-08-05 12:49:01,Russia,19
 2026-08-05 12:49:01,Asia,154
 2026-08-05 12:49:01,South America,15
+
+--- RUN AT 2026-08-05 12:50:08 ---
+Timestamp,Server,Players
+2026-08-05 12:50:08,North America,91
+2026-08-05 12:50:08,Europe,136
+2026-08-05 12:50:08,Russia,12
+2026-08-05 12:50:08,Asia,141
+2026-08-05 12:50:08,South America,14
