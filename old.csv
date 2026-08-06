@@ -77139,3 +77139,11 @@ Timestamp,Server,Players
 2026-08-06 23:12:47,Russia,16
 2026-08-06 23:12:47,Asia,30
 2026-08-06 23:12:47,South America,31
+
+--- RUN AT 2026-08-06 23:14:11 ---
+Timestamp,Server,Players
+2026-08-06 23:14:11,North America,231
+2026-08-06 23:14:11,Europe,55
+2026-08-06 23:14:11,Russia,21
+2026-08-06 23:14:11,Asia,31
+2026-08-06 23:14:11,South America,29
