@@ -72811,3 +72811,11 @@ Timestamp,Server,Players
 2026-08-06 04:09:00,Russia,14
 2026-08-06 04:09:00,Asia,140
 2026-08-06 04:09:00,South America,13
+
+--- RUN AT 2026-08-06 04:10:07 ---
+Timestamp,Server,Players
+2026-08-06 04:10:07,North America,198
+2026-08-06 04:10:07,Europe,18
+2026-08-06 04:10:07,Russia,15
+2026-08-06 04:10:07,Asia,127
+2026-08-06 04:10:07,South America,12
