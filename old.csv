@@ -71939,3 +71939,11 @@ Timestamp,Server,Players
 2026-08-06 02:05:12,Russia,15
 2026-08-06 02:05:12,Asia,112
 2026-08-06 02:05:12,South America,38
+
+--- RUN AT 2026-08-06 02:06:08 ---
+Timestamp,Server,Players
+2026-08-06 02:06:08,North America,250
+2026-08-06 02:06:08,Europe,23
+2026-08-06 02:06:08,Russia,15
+2026-08-06 02:06:08,Asia,111
+2026-08-06 02:06:08,South America,34
