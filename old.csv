@@ -80075,3 +80075,11 @@ Timestamp,Server,Players
 2026-08-07 07:56:21,Russia,18
 2026-08-07 07:56:21,Asia,173
 2026-08-07 07:56:21,South America,9
+
+--- RUN AT 2026-08-07 07:58:10 ---
+Timestamp,Server,Players
+2026-08-07 07:58:10,North America,64
+2026-08-07 07:58:10,Europe,65
+2026-08-07 07:58:10,Russia,22
+2026-08-07 07:58:10,Asia,165
+2026-08-07 07:58:10,South America,9
