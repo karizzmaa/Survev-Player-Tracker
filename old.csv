@@ -77411,3 +77411,11 @@ Timestamp,Server,Players
 2026-08-07 00:03:26,Russia,20
 2026-08-07 00:03:26,Asia,46
 2026-08-07 00:03:26,South America,24
+
+--- RUN AT 2026-08-07 00:05:25 ---
+Timestamp,Server,Players
+2026-08-07 00:05:25,North America,217
+2026-08-07 00:05:25,Europe,30
+2026-08-07 00:05:25,Russia,21
+2026-08-07 00:05:25,Asia,44
+2026-08-07 00:05:25,South America,25
