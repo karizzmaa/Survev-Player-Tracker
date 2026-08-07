@@ -84515,3 +84515,11 @@ Timestamp,Server,Players
 2026-08-07 21:07:35,Russia,12
 2026-08-07 21:07:35,Asia,8
 2026-08-07 21:07:35,South America,39
+
+--- RUN AT 2026-08-07 21:09:00 ---
+Timestamp,Server,Players
+2026-08-07 21:09:00,North America,263
+2026-08-07 21:09:00,Europe,76
+2026-08-07 21:09:00,Russia,13
+2026-08-07 21:09:00,Asia,11
+2026-08-07 21:09:00,South America,36
