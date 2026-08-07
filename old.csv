@@ -82307,3 +82307,11 @@ Timestamp,Server,Players
 2026-08-07 14:29:09,Russia,33
 2026-08-07 14:29:09,Asia,155
 2026-08-07 14:29:09,South America,22
+
+--- RUN AT 2026-08-07 14:31:50 ---
+Timestamp,Server,Players
+2026-08-07 14:31:50,North America,167
+2026-08-07 14:31:50,Europe,128
+2026-08-07 14:31:50,Russia,30
+2026-08-07 14:31:50,Asia,147
+2026-08-07 14:31:50,South America,24
