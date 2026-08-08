@@ -92723,3 +92723,11 @@ Timestamp,Server,Players
 2026-08-08 22:03:18,Russia,13
 2026-08-08 22:03:18,Asia,19
 2026-08-08 22:03:18,South America,36
+
+--- RUN AT 2026-08-08 22:05:21 ---
+Timestamp,Server,Players
+2026-08-08 22:05:21,North America,228
+2026-08-08 22:05:21,Europe,60
+2026-08-08 22:05:21,Russia,19
+2026-08-08 22:05:21,Asia,18
+2026-08-08 22:05:21,South America,38
