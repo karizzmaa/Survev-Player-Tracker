@@ -91443,3 +91443,11 @@ Timestamp,Server,Players
 2026-08-08 18:09:56,Russia,22
 2026-08-08 18:09:56,Asia,33
 2026-08-08 18:09:56,South America,33
+
+--- RUN AT 2026-08-08 18:11:39 ---
+Timestamp,Server,Players
+2026-08-08 18:11:39,North America,195
+2026-08-08 18:11:39,Europe,95
+2026-08-08 18:11:39,Russia,23
+2026-08-08 18:11:39,Asia,31
+2026-08-08 18:11:39,South America,32
