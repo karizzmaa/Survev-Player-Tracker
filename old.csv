@@ -87571,3 +87571,11 @@ Timestamp,Server,Players
 2026-08-08 06:16:28,Russia,22
 2026-08-08 06:16:28,Asia,133
 2026-08-08 06:16:28,South America,14
+
+--- RUN AT 2026-08-08 06:18:06 ---
+Timestamp,Server,Players
+2026-08-08 06:18:06,North America,104
+2026-08-08 06:18:06,Europe,28
+2026-08-08 06:18:06,Russia,20
+2026-08-08 06:18:06,Asia,141
+2026-08-08 06:18:06,South America,13
