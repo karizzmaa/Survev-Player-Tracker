@@ -86651,3 +86651,11 @@ Timestamp,Server,Players
 2026-08-08 03:29:11,Russia,17
 2026-08-08 03:29:11,Asia,137
 2026-08-08 03:29:11,South America,15
+
+--- RUN AT 2026-08-08 03:31:41 ---
+Timestamp,Server,Players
+2026-08-08 03:31:41,North America,191
+2026-08-08 03:31:41,Europe,14
+2026-08-08 03:31:41,Russia,17
+2026-08-08 03:31:41,Asia,128
+2026-08-08 03:31:41,South America,16
