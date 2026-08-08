@@ -92707,3 +92707,11 @@ Timestamp,Server,Players
 2026-08-08 22:00:13,Russia,16
 2026-08-08 22:00:13,Asia,19
 2026-08-08 22:00:13,South America,33
+
+--- RUN AT 2026-08-08 22:01:58 ---
+Timestamp,Server,Players
+2026-08-08 22:01:58,North America,219
+2026-08-08 22:01:58,Europe,54
+2026-08-08 22:01:58,Russia,16
+2026-08-08 22:01:58,Asia,19
+2026-08-08 22:01:58,South America,34
