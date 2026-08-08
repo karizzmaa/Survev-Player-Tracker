@@ -91211,3 +91211,11 @@ Timestamp,Server,Players
 2026-08-08 17:26:01,Russia,31
 2026-08-08 17:26:01,Asia,49
 2026-08-08 17:26:01,South America,44
+
+--- RUN AT 2026-08-08 17:27:08 ---
+Timestamp,Server,Players
+2026-08-08 17:27:08,North America,200
+2026-08-08 17:27:08,Europe,115
+2026-08-08 17:27:08,Russia,30
+2026-08-08 17:27:08,Asia,54
+2026-08-08 17:27:08,South America,39
