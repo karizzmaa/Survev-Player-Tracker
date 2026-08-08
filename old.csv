@@ -92043,3 +92043,11 @@ Timestamp,Server,Players
 2026-08-08 20:03:14,Russia,18
 2026-08-08 20:03:14,Asia,17
 2026-08-08 20:03:14,South America,28
+
+--- RUN AT 2026-08-08 20:05:00 ---
+Timestamp,Server,Players
+2026-08-08 20:05:00,North America,231
+2026-08-08 20:05:00,Europe,98
+2026-08-08 20:05:00,Russia,16
+2026-08-08 20:05:00,Asia,18
+2026-08-08 20:05:00,South America,34
