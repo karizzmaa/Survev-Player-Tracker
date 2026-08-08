@@ -91163,3 +91163,11 @@ Timestamp,Server,Players
 2026-08-08 17:16:22,Russia,32
 2026-08-08 17:16:22,Asia,61
 2026-08-08 17:16:22,South America,43
+
+--- RUN AT 2026-08-08 17:18:24 ---
+Timestamp,Server,Players
+2026-08-08 17:18:24,North America,198
+2026-08-08 17:18:24,Europe,100
+2026-08-08 17:18:24,Russia,32
+2026-08-08 17:18:24,Asia,54
+2026-08-08 17:18:24,South America,37
