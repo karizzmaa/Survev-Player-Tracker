@@ -86027,3 +86027,11 @@ Timestamp,Server,Players
 2026-08-08 01:41:16,Russia,18
 2026-08-08 01:41:16,Asia,104
 2026-08-08 01:41:16,South America,31
+
+--- RUN AT 2026-08-08 01:43:03 ---
+Timestamp,Server,Players
+2026-08-08 01:43:03,North America,229
+2026-08-08 01:43:03,Europe,20
+2026-08-08 01:43:03,Russia,15
+2026-08-08 01:43:03,Asia,98
+2026-08-08 01:43:03,South America,38
