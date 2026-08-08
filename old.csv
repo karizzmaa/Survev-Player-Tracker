@@ -91451,3 +91451,11 @@ Timestamp,Server,Players
 2026-08-08 18:11:39,Russia,23
 2026-08-08 18:11:39,Asia,31
 2026-08-08 18:11:39,South America,32
+
+--- RUN AT 2026-08-08 18:13:15 ---
+Timestamp,Server,Players
+2026-08-08 18:13:15,North America,202
+2026-08-08 18:13:15,Europe,97
+2026-08-08 18:13:15,Russia,25
+2026-08-08 18:13:15,Asia,28
+2026-08-08 18:13:15,South America,30
