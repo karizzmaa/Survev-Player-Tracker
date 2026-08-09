@@ -98307,3 +98307,11 @@ Timestamp,Server,Players
 2026-08-09 15:49:19,Russia,24
 2026-08-09 15:49:19,Asia,107
 2026-08-09 15:49:19,South America,32
+
+--- RUN AT 2026-08-09 15:52:08 ---
+Timestamp,Server,Players
+2026-08-09 15:52:08,North America,180
+2026-08-09 15:52:08,Europe,99
+2026-08-09 15:52:08,Russia,20
+2026-08-09 15:52:08,Asia,100
+2026-08-09 15:52:08,South America,33
