@@ -95611,3 +95611,11 @@ Timestamp,Server,Players
 2026-08-09 07:07:55,Russia,19
 2026-08-09 07:07:55,Asia,165
 2026-08-09 07:07:55,South America,14
+
+--- RUN AT 2026-08-09 07:09:20 ---
+Timestamp,Server,Players
+2026-08-09 07:09:20,North America,91
+2026-08-09 07:09:20,Europe,40
+2026-08-09 07:09:20,Russia,13
+2026-08-09 07:09:20,Asia,170
+2026-08-09 07:09:20,South America,12
