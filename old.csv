@@ -96163,3 +96163,11 @@ Timestamp,Server,Players
 2026-08-09 08:58:10,Russia,20
 2026-08-09 08:58:10,Asia,190
 2026-08-09 08:58:10,South America,8
+
+--- RUN AT 2026-08-09 08:59:18 ---
+Timestamp,Server,Players
+2026-08-09 08:59:18,North America,40
+2026-08-09 08:59:18,Europe,74
+2026-08-09 08:59:18,Russia,16
+2026-08-09 08:59:18,Asia,198
+2026-08-09 08:59:18,South America,8
