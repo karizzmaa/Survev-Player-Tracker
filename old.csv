@@ -99774,3 +99774,11 @@ Timestamp,Server,Players
 2026-08-09 20:43:07,Russia,16
 2026-08-09 20:43:07,Asia,18
 2026-08-09 20:43:07,South America,25
+
+--- RUN AT 2026-08-09 20:44:01 ---
+Timestamp,Server,Players
+2026-08-09 20:44:01,North America,259
+2026-08-09 20:44:01,Europe,100
+2026-08-09 20:44:01,Russia,17
+2026-08-09 20:44:01,Asia,20
+2026-08-09 20:44:01,South America,31
