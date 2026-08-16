@@ -143924,3 +143924,11 @@ Timestamp,Server,Players
 2026-08-16 20:12:26,Russia,18
 2026-08-16 20:12:26,Asia,14
 2026-08-16 20:12:26,South America,53
+
+--- RUN AT 2026-08-16 20:14:32 ---
+Timestamp,Server,Players
+2026-08-16 20:14:32,North America,218
+2026-08-16 20:14:32,Europe,79
+2026-08-16 20:14:32,Russia,14
+2026-08-16 20:14:32,Asia,13
+2026-08-16 20:14:32,South America,52
