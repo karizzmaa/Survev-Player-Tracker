@@ -211285,3 +211285,11 @@ Timestamp,Server,Players
 2026-08-30 11:11:28,Russia,14
 2026-08-30 11:11:28,Asia,128
 2026-08-30 11:11:28,South America,22
+
+--- RUN AT 2026-08-30 11:14:42 ---
+Timestamp,Server,Players
+2026-08-30 11:14:42,North America,55
+2026-08-30 11:14:42,Europe,129
+2026-08-30 11:14:42,Russia,19
+2026-08-30 11:14:42,Asia,135
+2026-08-30 11:14:42,South America,21
