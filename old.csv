@@ -242453,3 +242453,11 @@ Timestamp,Server,Players
 2026-09-07 19:25:13,Russia,17
 2026-09-07 19:25:13,Asia,19
 2026-09-07 19:25:13,South America,25
+
+--- RUN AT 2026-09-07 19:28:11 ---
+Timestamp,Server,Players
+2026-09-07 19:28:11,North America,201
+2026-09-07 19:28:11,Europe,94
+2026-09-07 19:28:11,Russia,12
+2026-09-07 19:28:11,Asia,16
+2026-09-07 19:28:11,South America,22
