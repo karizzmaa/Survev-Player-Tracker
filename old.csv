@@ -380311,3 +380311,11 @@ Timestamp,Server,Players
 2026-10-31 21:05:23,Russia,3
 2026-10-31 21:05:23,Asia,9
 2026-10-31 21:05:23,South America,18
+
+--- RUN AT 2026-10-31 21:09:55 ---
+Timestamp,Server,Players
+2026-10-31 21:09:55,North America,162
+2026-10-31 21:09:55,Europe,66
+2026-10-31 21:09:55,Russia,2
+2026-10-31 21:09:55,Asia,12
+2026-10-31 21:09:55,South America,21
