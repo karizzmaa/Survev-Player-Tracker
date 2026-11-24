@@ -423447,3 +423447,10 @@ Timestamp,Server,Players
 2026-11-24 13:04:12,Europe,84
 2026-11-24 13:04:12,Asia,114
 2026-11-24 13:04:12,South America,11
+
+--- RUN AT 2026-11-24 13:10:09 ---
+Timestamp,Server,Players
+2026-11-24 13:10:09,North America,58
+2026-11-24 13:10:09,Europe,82
+2026-11-24 13:10:09,Asia,109
+2026-11-24 13:10:09,South America,9
