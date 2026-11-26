@@ -426943,3 +426943,10 @@ Timestamp,Server,Players
 2026-11-26 21:02:28,Europe,76
 2026-11-26 21:02:28,Asia,9
 2026-11-26 21:02:28,South America,18
+
+--- RUN AT 2026-11-26 21:08:57 ---
+Timestamp,Server,Players
+2026-11-26 21:08:57,North America,184
+2026-11-26 21:08:57,Europe,87
+2026-11-26 21:08:57,Asia,14
+2026-11-26 21:08:57,South America,28
